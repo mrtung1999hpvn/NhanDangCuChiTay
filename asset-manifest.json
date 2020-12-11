@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NhanDangCuChiTay/static/css/main.5f361e03.chunk.css",
+    "main.js": "/NhanDangCuChiTay/static/js/main.26f3a16d.chunk.js",
+    "main.js.map": "/NhanDangCuChiTay/static/js/main.26f3a16d.chunk.js.map",
+    "runtime-main.js": "/NhanDangCuChiTay/static/js/runtime-main.0ee57cbe.js",
+    "runtime-main.js.map": "/NhanDangCuChiTay/static/js/runtime-main.0ee57cbe.js.map",
+    "static/js/2.e6bd9e86.chunk.js": "/NhanDangCuChiTay/static/js/2.e6bd9e86.chunk.js",
+    "static/js/2.e6bd9e86.chunk.js.map": "/NhanDangCuChiTay/static/js/2.e6bd9e86.chunk.js.map",
+    "index.html": "/NhanDangCuChiTay/index.html",
+    "precache-manifest.4f5e6da09c8f9da99c66ca0b48f6570c.js": "/NhanDangCuChiTay/precache-manifest.4f5e6da09c8f9da99c66ca0b48f6570c.js",
+    "service-worker.js": "/NhanDangCuChiTay/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/NhanDangCuChiTay/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6bd9e86.chunk.js.LICENSE.txt": "/NhanDangCuChiTay/static/js/2.e6bd9e86.chunk.js.LICENSE.txt",
+    "static/media/thumbs_up.png": "/NhanDangCuChiTay/static/media/thumbs_up.1cfa24a5.png",
+    "static/media/victory.png": "/NhanDangCuChiTay/static/media/victory.6db44b04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ee57cbe.js",
+    "static/js/2.e6bd9e86.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.26f3a16d.chunk.js"
+  ]
+}
